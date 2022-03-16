@@ -6,4 +6,4 @@ server:
   port: 0
 
 user:
-  email: abc@mail.com
+  email: xyz@mail.com
